@@ -31,7 +31,6 @@ h1 {
 #slider .tm-button {
     position: absolute;
     left: unset;
-    right: 0;
     top: 0px;
 }
 .slider-content {
@@ -124,7 +123,6 @@ header {
     position: absolute;
     left: unset;
     top: -1px;
-    right: -1px;
 }
 .slider-content {
     height: auto;
@@ -286,7 +284,6 @@ header.black{
     position: absolute;
     left: unset; 
     top: 0px;
-    right: -1px;
     padding: 18px 30px;
 }
 .trail input[type="email"] {
